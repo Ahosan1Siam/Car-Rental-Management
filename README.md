@@ -20,11 +20,17 @@ Please remember that the admin has to set the account status to active for the u
 Thank you!
 
 <!Important Logins>
+  
 Admin Id: Cipher
+  
 Admin Password : plunderer
 
 <!Paypal API>
+  
 1st login(buyer account):
+  
 email:bsx@gmail.com password:12345678
+  
 2nd login(personal account):
+  
 email:akihikoi@gmail.com password:23456789
